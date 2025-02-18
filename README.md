@@ -1,68 +1,46 @@
-<h2 align="left">Hi 👋! My name is Mayank Kumar and I'm a passionate Computer Science student specializing in Artificial Intelligence, from Kanpur, India.</h2>
+# Hi there! 👋 I'm Mayank Kumar
 
-###
+## 🚀 About Me
+I'm a passionate Computer Science student specializing in Artificial Intelligence from Kanpur, India. I love exploring cutting-edge technologies and solving complex problems through code.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mayank-kumar03&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mayank-kumar03&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+## 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
 
-###
+## 📊 My GitHub Stats
+![Mayank's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mayank-kumar03&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mayank-kumar03&layout=compact&theme=radical)
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+## 🌟 Featured Projects
 
-###
+### 1. Video Streaming Platform
+- 🎥 Full-featured video hosting site
+- 🔐 Authentication with JWT
+- 💾 Built with NodeJS, ExpressJS, MongoDB
+- [View Project](https://github.com/mayank-kumar03)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="c++ logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-</div>
+### 2. Medwise Healthcare Web App
+- 🏥 Doctor scheduling platform
+- 🤖 AI-powered chatbot
+- 🌐 Technologies: HTML, CSS, JavaScript, MongoDB
+- [View Project](https://mayank-kumar03.github.io/Medwise/)
 
-###
+## 🏆 Achievements
+- 🧩 500+ LeetCode problems solved
+- 🌟 5★ in HackerRank Problem Solving
+- 📜 NPTEL C Programming Certificate
+- 🤖 Supervised Machine Learning Certification
 
-## Projects
+## 🤝 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](http://www.linkedin.com/in/mayank-kumar-20ba2028a)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=Github&logoColor=white)](https://github.com/mayank-kumar03)
+[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:mmayanktripathi897@gmail.com)
 
-- [Video Streaming Platform (My YouTube)](https://github.com/mayank-kumar03) - A video hosting site with login, signup, video upload, comments, likes/dislikes, and subscription management. Built using **NodeJS, ExpressJS, MongoDB, JWT, Postman**.
-- [Medwise (Healthcare Web Application)](https://mayank-kumar03.github.io/Medwise/) - A platform for doctor scheduling and healthcare services with an AIML-based chatbot. **HTML, CSS, JavaScript, MongoDB, Mongoose**.
-- [Tic-Tac-Toe Game](https://mayank-kumar03.github.io/Tic-Tac-Toe-games/) - A functional Tic-Tac-Toe game demonstrating JavaScript concepts.
-
-###
-
-## Achievements
-
-- Solved **500+ coding questions on LeetCode**. ([Profile](https://leetcode.com/u/user5662JS/))
-- **5★ in Problem Solving** on HackerRank. ([Profile](https://www.hackerrank.com/profile/CSAI_1520102))
-- **5★ in Python** on HackerRank.
-- **NPTEL C Programming Certificate** with excellent grade.
-- **Supervised Machine Learning Certification** by Coursera.
-
-###
-
-## Connect with Me
-
-- [LinkedIn](http://www.linkedin.com/in/mayank-kumar-20ba2028a)
-- [GitHub](https://github.com/mayank-kumar03)
-- 📧 Email: [mmayanktripathi897@gmail.com](mailto:mmayanktripathi897@gmail.com)
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+## 💡 Quick Facts
+- 🌱 Currently learning Advanced AI and Machine Learning
+- 💻 Open to collaboration on innovative projects
+- 🎓 Computer Science student passionate about technology
