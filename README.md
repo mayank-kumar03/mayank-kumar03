@@ -50,10 +50,11 @@ I'm a passionate Computer Science student specializing in Artificial Intelligenc
 - [View Project](https://github.com/mayank-kumar03)
 
 ### 2. Medwise Healthcare Web App
-- 🏥 Doctor scheduling platform
-- 🤖 AI-powered chatbot
-- 🌐 Technologies: HTML, CSS, JavaScript, MongoDB
-- [View Project](https://mayank-kumar03.github.io/Medwise/)
+- 🏥 Full hospital management system with doctor dashboards, emergency module & appointment scheduling
+- 🤖 AI-powered healthcare chatbot for real-time interaction
+- 🔐 Secure JWT-based user authentication with health blogs
+- 🌐 Tech Stack: HTML, CSS, SCSS, JavaScript, Bootstrap, Node.js, Express.js, MongoDB, Mongoose, JWT
+- [Live Demo](https://medwise-smart-healthcare.netlify.app)
 
 ## 🏆 Achievements
 - 🧩 500+ LeetCode problems solved
