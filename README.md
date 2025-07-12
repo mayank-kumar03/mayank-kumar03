@@ -52,7 +52,7 @@ Let’s build the future,
 
 ## 🌟 Featured Projects
 
-### 🎬 [Video Wall – My YouTube Clone](https://mk-video-wall.netlify.app/)
+### 🎬 [Video Wall – My YouTube ](https://mk-video-wall.netlify.app/)
 > **Full-stack video platform** with features like video upload, comment, like/dislike, subscriptions.
 - 🔐 JWT Auth | 🌩️ Cloudinary for uploads
 - 🔧 **Stack:** React, Vite, Node.js, Express, MongoDB
