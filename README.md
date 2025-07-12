@@ -2,13 +2,13 @@
 
 ## 🚀 About Me
 
-Hey there! I’m Mayank Kumar — a curious and passionate Computer Science student specializing in Artificial Intelligence, based in Kanpur, India. 
+Hey there! I’m Mayank Kumar — a curious and passionate Computer Science student specializing in Artificial Intelligence. 
 
 I love building things that matter — whether it’s crafting dynamic web apps or designing intelligent ML models. My journey in tech is driven by a deep interest in solving real-world challenges and learning something new every single day.
 
 Currently, I’m diving deeper into full-stack development and advanced machine learning, with a goal to create meaningful, scalable, and smart solutions that make an impact.
 
-Let’s build the future, one line of code at a time!
+Let’s build the future, 
 
 ---
 
@@ -18,7 +18,7 @@ Let’s build the future, one line of code at a time!
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus&logoColor=00599C)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=3776AB)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript&logoColor=F7DF1E)
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=007396)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 
 ### Web Development
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5&logoColor=E34F26)
