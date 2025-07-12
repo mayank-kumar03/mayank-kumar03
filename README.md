@@ -1,7 +1,14 @@
 # Hi there! 👋 I'm Mayank Kumar
 
 ## 🚀 About Me
-I’m a Computer Science undergrad specializing in Artificial Intelligence from Kanpur, India. I enjoy solving real-world problems through full-stack development and machine learning, and I’m always excited about building impactful tech.
+
+Hey there! I’m Mayank Kumar — a curious and passionate Computer Science student specializing in Artificial Intelligence, based in Kanpur, India. 
+
+I love building things that matter — whether it’s crafting dynamic web apps or designing intelligent ML models. My journey in tech is driven by a deep interest in solving real-world challenges and learning something new every single day.
+
+Currently, I’m diving deeper into full-stack development and advanced machine learning, with a goal to create meaningful, scalable, and smart solutions that make an impact.
+
+Let’s build the future, one line of code at a time!
 
 ---
 
