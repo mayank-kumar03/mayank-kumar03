@@ -18,7 +18,7 @@ Let’s build the future,
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus&logoColor=00599C)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=3776AB)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript&logoColor=F7DF1E)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+
 
 ### Web Development
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5&logoColor=E34F26)
