@@ -93,7 +93,7 @@ Let’s build the future,
 <div align="center">
   <p align="center">
     <a href="https://leetcode.com/u/user5662JS/">
-      <img src="https://leetcard.jacoblin.cool/muskan_gupta67?theme=catppuccinMocha&font=Stylish&ext=contest" alt="LeetCode Stats" width="400" height="280" style="margin: 10px;" />
+      <img src="https://leetcard.jacoblin.cool/user5662JS?theme=catppuccinMocha&font=Stylish&ext=contest" alt="LeetCode Stats" width="400" height="280" style="margin: 10px;" />
     </a>
   </p>
 </div>
