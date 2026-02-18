@@ -88,9 +88,15 @@ Let’s build the future,
 
 ---
 
-## 📈 GitHub Stats
-![Mayank's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mayank-kumar03&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mayank-kumar03&layout=compact&theme=radical)
+## 🏆 Competitive Programming
+
+<div align="center">
+  <p align="center">
+    <a href="https://leetcode.com/u/user5662JS/">
+      <img src="https://leetcard.jacoblin.cool/muskan_gupta67?theme=catppuccinMocha&font=Stylish&ext=contest" alt="LeetCode Stats" width="400" height="280" style="margin: 10px;" />
+    </a>
+  </p>
+</div>
 
 ---
 
